@@ -1,34 +1,72 @@
 body {
-    background: #E9EFF2;
+    background: #E8E5E9;
     font-size: 20px;
-    color: #1D2F40;
   }
   
   h1{
     font-size: 80px;
-    color: #426A8C;
-    text-align: center
+    color: #3F2638;
+    text-align: center;
   }
 
   h2 {
-      font-size: 50px;
-      font-style: bold;
-      color: #593C39;
+      font-size: 20px;
+      color: #3F2638;
+      text-align: left;
 
   }
   
   h3{
-    font-size: 20px;
+    font-size: 27px;
     font-style: italic;
-    color: #593c39;
-    text-align: center
+    color: #3F2638;
+    text-align: center;
+    padding-bottom: 20px;
   }
 
   p{
       font-size: 20px;
-      color: #1D2F40;
-      text-align: center
+      color: #000000;
+      text-align: left;
   }
-  .center-align{
-      text-align: center;
-  }
+
+/*  .nav-item{
+    padding: 10px;
+    background: #5191fd;
+    font: Lato;
+}*/
+
+/* Giving our navbar some padding and a background color */
+.navbar {
+  padding: 10px;
+}
+
+/* Making our navbar li's inline-block elements this makes it so we can have multiple on the same line. Floats could have been used too */
+.navbar li {
+  display: inline-block;
+  padding: 20px;
+  margin-right: 10px;
+  margin-left: 10px;
+  cursor: pointer;
+  background: #C8ABBF;
+  border-radius: 3px;
+}
+
+/* Getting rid of the default link styles here */
+.navbar li a {
+  color: #3F2638;
+  text-decoration: none;
+  font: Lato;
+}
+
+.navbar-brand{
+  color:#3F2638;
+  font: Lato;
+}
+
+#container-p{
+  padding:10px;
+  font: Lato;
+  color:#3F2638;
+  text-align: right;
+}
