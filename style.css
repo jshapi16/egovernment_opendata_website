@@ -37,32 +37,7 @@ body {
 }*/
 
 /* Giving our navbar some padding and a background color */
-.navbar {
-  padding: 10px;
-}
 
-/* Making our navbar li's inline-block elements this makes it so we can have multiple on the same line. Floats could have been used too */
-.navbar li {
-  display: inline-block;
-  padding: 20px;
-  margin-right: 10px;
-  margin-left: 10px;
-  cursor: pointer;
-  background: #C8ABBF;
-  border-radius: 3px;
-}
-
-/* Getting rid of the default link styles here */
-.navbar li a {
-  color: #3F2638;
-  text-decoration: none;
-  font: Lato;
-}
-
-.navbar-brand{
-  color:#3F2638;
-  font: Lato;
-}
 
 #container-p{
   padding:10px;
