@@ -1,21 +1,21 @@
 body {
     background: #E8E5E9;
     font-size: 20px;
-    font-family: Lato;
+    font-family: Merriweather;
   }
   
   h1{
     font-size: 80px;
     color: #3F2638;
     text-align: center;
-    font-family: "Abril Fatface";
+    font-family: "Fira Sans"
   }
 
   h2 {
       font-size: 20px;
       color: #3F2638;
       text-align: left;
-      font-family: Lato;
+      font-family: Merriweather;
 
   }
   
@@ -25,18 +25,18 @@ body {
     color: #3F2638;
     text-align: center;
     padding-bottom: 20px;
-    font-family: "Abril Fatface"
+    font-family: "Fira Sans"
   }
 
   p{
       font-size: 20px;
       color: #000000;
       text-align: left;
-      font-family: Lato;
+      font-family: Merriweather;
   }
 
 #p-center{
-  font: Lato;
+  font: Merriweather;
   color:#3F2638;
   text-align: center;
 }

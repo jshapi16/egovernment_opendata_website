@@ -3,6 +3,7 @@ Website design showcasing HTML, CSS, and Bootstrap
 
 
 This website displays a comparative analysis between the United Nation's E-Government Index and the OpenData Barometers Rankings for governmental open source data.
+https://jshapi16.github.io/web-design-challenge/
 
 There are five main sections to the website:
 1. About the project, which gives an overview of why this data was analyzed.
